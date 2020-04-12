@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">1º Caso Prático</string>
+    <string name="opcao">Escolha uma opção:</string>
+    <string name="introduzir_cidade">Introduzir cidades</string>
+    <string name="mapa_cidade">Mapa das cidades</string>
+    <string name="data_nascimento">Data de nascimento</string>
+    <string name="chamada">Chamada</string>
+    <string name="sms">Mensagem SMS</string>
+    <string name="sobre">Sobre</string>
+    <string name="guardar">Guardar cidade</string>
+    <string name="calc">Guardar data de nascimento</string>
+    <string name="data">Qual a sua data de nascimento?</string>
+    <string name="nome">Nome:</string>
+    <string name="tel">Telefone:</string>
+    <string name="loc">Localidade:</string>
+    <string name="dados">Dados da criadora:</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="enviar_mensagem">Enviar Mensagem</string>
+    <string name="aniversario">Faltam %1$d dias até ao teu %2$dº aniversário!</string>
+</resources>
